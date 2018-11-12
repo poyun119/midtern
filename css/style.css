@@ -46,16 +46,17 @@ body {
 .circle  {
   width : 60px ;
   height : 60px ;
-  border-radius : 100% ;
   position : absolute ;
 }
 .c1 {
+  border-radius : 100% ;
   width : 100px ;
   height : 100px ;
   right : 100px ; 
   background-color : #35d0ba ;
 }
 .c2 {
+  border-radius : 20% ;
   right : -30px ;
   top : -30px ;
   border :10px solid #35d0ba ;
